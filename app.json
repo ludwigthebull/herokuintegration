@@ -1,0 +1,22 @@
+{
+  "name": "LawBot",
+  "description": "Bob Loblaw Law Bot",
+  "env": {
+    "PANDORABOTS_APP_ID": {
+      "description": "Your Pandorabots application ID"
+    },
+    "PANDORABOTS_USER_KEY": {
+      "description": "Your Pandorabots user key"
+    },
+    "PANDORABOTS_BOTNAME": {
+      "description": "The name of the bot you'd like to connect to"
+    },
+    "PANDORABOTS_URL": {
+      "description": "The fully qualified URL of the Pandorabots API",
+      "value": "https://aiaas.pandorabots.com"
+    },
+    "GOOGLE_PLACES_API_KEY": {
+      "description": "Google Places API Web Service Key"
+    }
+  }
+}
